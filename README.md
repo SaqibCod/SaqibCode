@@ -1,4 +1,4 @@
-#<h1>Hi, I'm Saqib choudhary! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
+<h1>Hi, I'm Saqib choudhary! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
 I'm a BCA student at the Institute of Management and Education, Delhi.
 <br>
